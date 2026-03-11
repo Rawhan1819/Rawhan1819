@@ -1,5 +1,5 @@
 ## Hi there 👋  
-I’m **Rawhan Ramzi Mohammed** — A Java Developer ☕  
+I’m **Rawhan Ramzi Mohammed** — A Python/Web Developer ☕  
 
 <img src="https://github.com/user-attachments/assets/5f5f41da-cb94-4480-98a4-c8630b416447"
      width="160"
