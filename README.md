@@ -1,10 +1,5 @@
 ## Hi there 👋  
-I’m **Rawhan Ramzi Mohammed** — A Python/Web Developer ☕  
-
-<img src="https://github.com/user-attachments/assets/5f5f41da-cb94-4480-98a4-c8630b416447"
-     width="160"
-     align="right"
-     style="border-radius:50%;" />
+I’m **Mohammed Rawhan Ramzi** — A Python Developer 🐍  
 
 🎓 **B.Tech CSE (3rd Year)**  
 🏫 Vignan Foundation for Science & Technology  
@@ -12,34 +7,46 @@ I’m **Rawhan Ramzi Mohammed** — A Python/Web Developer ☕
 ---
 
 ### 👨‍💻 About Me
-I am **Rawhan Ramzi Mohammed**, a passionate **Web/Python Developer** with strong fundamentals in **Web Development** and hands-on experience in:
+I am **Mohammed Rawhan Ramzi**, a passionate **Python Developer** with strong fundamentals in **backend development, AI-based applications, and full-stack development**.
 
-- 🌱 Git  
-- 🔗 REST APIs  
-- 🗄️ MySQL  
-- 🔌 MERN  
-- 🧩 Basic UI/UX  
+I have hands-on experience building **real-world projects using Python, Flask, and React**, including an **AI-powered Local News Agent** that fetches and summarizes city-specific news using APIs and sentiment analysis.
 
-I have built multiple **database-driven Web applications** and I’m actively seeking **internship opportunities** to gain real-world industry experience.
+💡 I enjoy solving problems, building intelligent applications, and exploring new technologies in **AI, backend systems, and data-driven applications**.
 
 ---
 
 ### 🛠️ Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+
+---
+
+### 🌱 Currently Learning
+
+- Artificial Intelligence Applications  
+- Advanced Backend Development  
+- System Design Concepts  
+- Data Structures & Algorithms in Python
 
 ---
 
 ### 🚀 What I’m Looking For
-- 🔭 Python / Backend Internships  
-- 👯 Collaboration on Pyhton & Fullstack projects  
-- 🌱 Learning advanced backend & system design  
+
+- 🔭 **Python / Backend / AI Internships**  
+- 👯 Collaboration on **AI & Full Stack Projects**  
+- 🌱 Learning **advanced system design and scalable applications**
 
 ---
 
 ### 📫 Connect With Me
+
 - 💼 [LinkedIn](https://www.linkedin.com/in/rawhan-ramzi-mohammed-449ab5291/)  
 - 💻 [GitHub](https://github.com/Rawhan1819)  
 - 📧 Email: rawhanramzi@gmail.com
@@ -47,8 +54,5 @@ I have built multiple **database-driven Web applications** and I’m actively se
 ---
 
 ### ⚡ Fun Fact
-> I enjoy building clean backend systems and debugging complex python problems ☕🔥
 
----
-
-<img src="https://github.com/user-attachments/assets/a5f3877e-a1ce-4dac-83d9-baccf9fc8472" width="100%" />
+> I enjoy building intelligent applications and turning ideas into real-world software 🚀
