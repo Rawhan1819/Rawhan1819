@@ -25,6 +25,7 @@ I have hands-on experience building **real-world projects using Python, Flask, a
 
 ### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -37,6 +38,9 @@ I have hands-on experience building **real-world projects using Python, Flask, a
 ---
 
 ### 🧠 AI / Data
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF9F43?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-6C5CE7?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/NLP_(API_Based)-8E44AD?style=for-the-badge)
 ![Sentiment Analysis](https://img.shields.io/badge/Sentiment-2ECC71?style=for-the-badge)
 ![Summarization](https://img.shields.io/badge/Summarization-3498DB?style=for-the-badge)
@@ -45,6 +49,7 @@ I have hands-on experience building **real-world projects using Python, Flask, a
 
 ### 🗄️ Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
@@ -52,11 +57,14 @@ I have hands-on experience building **real-world projects using Python, Flask, a
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor_AI_Editor-111111?style=for-the-badge)
 
 ---
 
 ### ☁️ Deployment
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 
 
