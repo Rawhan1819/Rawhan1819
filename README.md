@@ -1,7 +1,7 @@
 ## Hi there 👋  
 I’m **Mohammed Rawhan Ramzi** — A Python Developer 🐍  
 
-🎓 **B.Tech CSE (3rd Year)**  
+🎓 **B.Tech CSE (Final Year)**  
 🏫 Vignan Foundation for Science & Technology  
 
 ---
